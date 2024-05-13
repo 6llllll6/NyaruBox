@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sportArray">
+        <item>跑步</item>
+        <item>游泳</item>
+        <item>自行车</item>
+        <item>篮球</item>
+        <item>足球</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="foodArray">
+        <item>早餐</item>
+        <item>午餐</item>
+        <item>晚餐</item>
+        <item>夜宵</item>
+    </string-array>
+</resources>
